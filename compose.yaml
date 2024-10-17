@@ -1,0 +1,8 @@
+services:
+  palindrome:
+    build: .
+    ports:
+      - "80:80"
+
+
+
